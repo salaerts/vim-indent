@@ -8,32 +8,32 @@ HTML Extra's
 
 Adds indentation for the following HTML tags:
 
-p
-,li
-,section
-,article
-,aside
-,command
-,details
-,summary
-,figure
-,hgroup
-,mark
-,nav
-,progress
-,time
-,header
-,footer
-,figcaption
-,audio
-,video
-,source
-,embed
-,track
-,canvas
-,datalist
-,keygen
-,output
+-p
+-li
+-section
+-article
+-aside
+-command
+-details
+-summary
+-figure
+-hgroup
+-mark
+-nav
+-progress
+-time
+-header
+-footer
+-figcaption
+-audio
+-video
+-source
+-embed
+-track
+-canvas
+-datalist
+-keygen
+-output
 
 Installation
 ============
@@ -41,9 +41,8 @@ Installation
 Using Vundle
 ------------
 
-1. Add the following line to the bundle configuration in your .vimrc
+1. Add the following line to the bundle configuration in your .vimrc:
    `Bundle 'salaerts/vim-indent'`
-
 2. Install by running the vim command :BundleInstall
 
 Manual installation
