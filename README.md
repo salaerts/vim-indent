@@ -45,6 +45,8 @@ Using Vundle
    `Bundle 'salaerts/vim-indent'`
 2. Install by running the vim command :BundleInstall
 
+For more information, see https://github.com/gmarik/vundle
+
 Manual installation
 -------------------
 
